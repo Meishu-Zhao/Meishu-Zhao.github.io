@@ -1,9 +1,9 @@
 ---
 title: "Meishu Zhao"
-image: "frank.jpg"
+image: "IMG_5701.JPG"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "www.linkedin.com/in/meishu-zhao"
   - label: Twitter
     url: "https://twitter.com/"
   - label: GitHub
@@ -16,25 +16,16 @@ output:
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Meishu Zhao studies Biostatistics at Johns Hopkins University.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**Johns Hopkins University** | Baltimore, MD
 
-Ph.D. in Computer Science | September 2009 - May 2014
+ScM in Biostatistics | Aug 2024 - May 2026
 
-**The University of California, Berkeley** | Berkeley, CA
+**University of Wisconsin-Madison** | Madison, WI
 
-B.S. in Computer Science | September 2005 - May 2009
+B.S. in Statistics, Economics | September 2020 - May 2024
 
-## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
-
-**Netflix** | Research Scientist | June 2014 - December 2017
